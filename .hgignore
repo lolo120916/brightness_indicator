@@ -1,0 +1,5 @@
+syntax: glob
+.settings/org.eclipse.core.resources.prefs
+.pydevproject
+.project
+ubuntu_locksession_monitoring.txt

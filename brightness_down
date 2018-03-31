@@ -1,0 +1,5 @@
+#!/bin/sh
+
+basedir=$(dirname "$0")
+
+python "${basedir}/brightness_adjust.py" --down
